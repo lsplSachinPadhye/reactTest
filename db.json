@@ -1,6 +1,34 @@
-[
+{
+  "users" : [
   {
     "id": 1,
-    "name": "Leanne Graham"
+    "name": "Leanne Graham",
+    "handle":"@leanne.graham",
+    "gender":"Male",
+    "birthdate":"12-12-1990"
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "handle": "@Antonette",
+    "gender":"Male",
+    "birthdate":"1-5-1950"
+    
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "@Samantha",
+    "gender":"Female",
+    "birthdate":"20-07-1987"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "@Karianne",
+    "gender":"Female",
+    "birthdate":"29-11-2020"
+
   }
 ]
+}
